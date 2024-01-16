@@ -37,9 +37,6 @@ InceptionV3 is chosen for its proven performance in image classification tasks. 
 Contributions are welcome! If you want to enhance the project, please follow the guidelines outlined in the repository. Whether it's improving accuracy, adding features, or optimizing code, your input is valued.
 
 ## License
-
-This project is licensed under the [MIT License](LICENSE), ensuring collaboration and openness.
-
 Feel free to reach out for any questions, feedback, or collaborative opportunities!
 
 ---
